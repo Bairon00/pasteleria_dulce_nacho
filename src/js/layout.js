@@ -5,6 +5,7 @@ import ScrollToTop from "./component/scrollToTop";
 import {Home} from "./views/home"
 import{Pedidos} from "./views/pedidos"
 import injectContext from "./store/appContext";
+import {Card} from "./component/cardProduct"
 
 import { Navbar } from "./component/navbar";
 import { Footer } from "./component/footer";

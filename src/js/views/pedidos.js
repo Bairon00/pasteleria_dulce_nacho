@@ -1,11 +1,11 @@
 import React from "react";
-
+import {CardProducst} from "../component/cardProduct"
 
 
 export const Pedidos=()=>{
     return(
-        <>
-        your purchase 
-        </>
+        <div>
+        <CardProducst/>
+        </div>
     )
 }
