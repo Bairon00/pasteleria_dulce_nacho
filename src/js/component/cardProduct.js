@@ -7,7 +7,7 @@ export const CardProducst=()=>{
         <img src="https://dulkado.com/wp-content/uploads/2021/12/Imagen-menu-Glaseados-y-Rellenos-.jpg" className="container imgcard"/>
         <div className="cardbody">
             <h4>name producs</h4>
-            <a>price</a>
+            <button className="price">add+</button>
         </div>
        </div>
     )
